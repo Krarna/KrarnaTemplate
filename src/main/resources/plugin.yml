@@ -1,0 +1,4 @@
+name: KrarnaTemplate
+version: '${version}'
+main: com.github.zarkness.krarnatemplate.KrarnaTemplate
+api-version: 1.19
