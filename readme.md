@@ -1,5 +1,7 @@
 <h1> Minecraft plugin template </h1>
-**[![Support Discord](https://img.shields.io/discord/818135932103557162.svg?label=&logo=discord&logoColor=fff&color=7389D8&labelColor=6A7EC2)](en desarrollo)**
+
+
+[![discord-singular](https://cdn.jsdelivr.net/gh/intergrav/devins-badges/assets/minimal/social/discord-singular_vector.svg)](https://discord.gg/9AtY8qhKJz)
 <h3> Writte in kotlin and gradlew </h3>
 
 <h4> I'm still learning to program, kotlin is the language I'm starting to learn,
